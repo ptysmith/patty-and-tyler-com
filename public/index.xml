@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patty &amp; Tyler</title>
+    <link>https://pattyandtyler.com/</link>
+    <description>Recent content on Patty &amp; Tyler</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Jul 2024 10:25:37 -0700</lastBuildDate>
+    <atom:link href="https://pattyandtyler.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome</title>
+      <link>https://pattyandtyler.com/posts/welcome/</link>
+      <pubDate>Sun, 28 Jul 2024 10:25:37 -0700</pubDate>
+      <guid>https://pattyandtyler.com/posts/welcome/</guid>
+      <description>We&amp;rsquo;ll be writing up some of our thoughts here Please stay tuned :).</description>
+    </item>
+  </channel>
+</rss>

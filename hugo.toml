@@ -1,0 +1,4 @@
+baseURL = 'https://pattyandtyler.com/'
+languageCode = 'en-us'
+title = 'Patty & Tyler'
+theme = 'ananke'
